@@ -67,6 +67,3 @@ After building and training the model, performance is evaluated using metrics li
 
 Feel free to contribute to the project by opening a pull request or submitting issues.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
